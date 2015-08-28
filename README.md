@@ -114,7 +114,28 @@
 
 ---
 
-## 第5章 第三方库介绍
+## 第5章 Python库介绍
+* ### 5.1 内置库
+    
+    * #### 4.1.1 urllib/urllib2/httplib
+    * #### 4.1.2 json/re/HtmlParser/lxml/copy
+    * #### 4.1.3 time/datetime/random
+    * #### 4.1.4 os/sys/logging/ConfigParser
+    
+* ### 5.2 第三方库
+    
+    * #### 4.2.1 requests
+    * #### 4.2.2 simplejson/bs4/pyquery
+    * #### 4.2.3
+    * #### 4.2.4
+    
+* ### 5.3
+    
+    * #### 4.3.1
+    * #### 4.3.2 小结
+    * #### 4.3.3 参考
+
+---
 
 ## 第6章 高级爬虫
 
