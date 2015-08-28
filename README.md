@@ -126,7 +126,7 @@
     
     * #### 4.2.1 requests
     * #### 4.2.2 simplejson
-    * #### 4.2.3 bs4
+    * #### 4.2.3 BeautifulSoup4/bs4
     * #### 4.2.4 pyquery
     * #### 4.2.5 webscraping
     
