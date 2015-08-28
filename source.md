@@ -10,4 +10,17 @@
 
 [自己动手写网络爬虫](http://www.amazon.cn/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB-%E7%BD%97%E5%88%9A/dp/B0047T6B4O/) - 清华大学出版社
 
+[如何入门 Python 爬虫？](http://www.zhihu.com/question/20899988/answer/24923424) - 知乎
+
+[能利用爬虫技术做到哪些很酷很有趣很有用的事情？](http://www.zhihu.com/question/27621722/answer/48177710) - 知乎
+
+[Bloom Filters by Example](http://billmill.org/bloomfilter-tutorial/)
+
+[python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
+
+[scrapy-redis](https://github.com/darkrho/scrapy-redis)
+
+[python-rq](https://github.com/nvie/rq)
+
+
 鸣谢：董英、罗静静、唐一秋
