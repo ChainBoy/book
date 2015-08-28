@@ -124,7 +124,7 @@
     
 * ### 5.2 第三方库
     
-    * #### 4.2.1 requests/(python-rq/python-goose)
+    * #### 4.2.1 requests/(python-goose)
     * #### 4.2.2 simplejson
     * #### 4.2.3 BeautifulSoup4/bs4
     * #### 4.2.4 pyquery
@@ -145,7 +145,7 @@
 ## 第三部分 打开框架的大门
 
 
-## 第8章 爬虫框架
+## 第8章 爬虫框架 (scrapy-redis/python-rq)
 
 ## 第9章 打造属于你自己的框架
 
