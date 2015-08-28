@@ -120,7 +120,7 @@
     * #### 4.1.1 urllib/urllib2/httplib
     * #### 4.1.2 json/re/HtmlParser/lxml/copy
     * #### 4.1.3 time/datetime/random
-    * #### 4.1.4 os/sys/logging/ConfigParser
+    * #### 4.1.4 os/sys/logging/ConfigParser/xml2dict
     
 * ### 5.2 第三方库
     
