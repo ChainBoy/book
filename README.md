@@ -117,27 +117,48 @@
 ## 第5章 Python库介绍
 * ### 5.1 内置库
     
-    * #### 4.1.1 urllib/urllib2/httplib
-    * #### 4.1.2 json/re/HtmlParser/lxml/copy
-    * #### 4.1.3 time/datetime/random
-    * #### 4.1.4 os/sys/logging/ConfigParser/xml2dict
+    * #### 5.1.1 urllib/urllib2/httplib
+    * #### 5.1.2 json/re/HtmlParser/lxml
+    * #### 5.1.3 time/datetime/random/copy
+    * #### 5.1.4 os/sys/logging/ConfigParser/xml2dict
     
 * ### 5.2 第三方库
     
-    * #### 4.2.1 requests/(python-goose)
-    * #### 4.2.2 simplejson
-    * #### 4.2.3 BeautifulSoup4/bs4
-    * #### 4.2.4 pyquery
-    * #### 4.2.5 webscraping
+    * #### 5.2.1 requests/(python-goose)
+    * #### 5.2.2 simplejson
+    * #### 5.2.3 BeautifulSoup4/bs4
+    * #### 5.2.4 pyquery
+    * #### 5.2.5 webscraping
     
 * ### 5.3 小结
     
-    * #### 4.3.2 小结
-    * #### 4.3.3 参考
+    * #### 5.3.2 小结
+    * #### 5.3.3 参考
 
 ---
 
 ## 第6章 高级爬虫
+* ### 6.1 内置库
+    
+    * #### 6.1.1 urllib/urllib2/httplib
+    * #### 6.1.2 json/re/HtmlParser/lxml/copy
+    * #### 6.1.3 time/datetime/random
+    * #### 6.1.4 os/sys/logging/ConfigParser/xml2dict
+    
+* ### 6.2 第三方库
+    
+    * #### 6.2.1 requests/(python-goose)
+    * #### 6.2.2 simplejson
+    * #### 6.2.3 BeautifulSoup4/bs4
+    * #### 6.2.4 pyquery
+    * #### 6.2.5 webscraping
+    
+* ### 6.3 小结
+    
+    * #### 6.3.2 小结
+    * #### 6.3.3 参考
+
+---
 
 ## 第7章 爬虫实战/豆瓣发帖
 
