@@ -117,43 +117,41 @@
 ## 第5章 Python库介绍
 * ### 5.1 内置库
     
-    * #### 5.1.1 urllib/urllib2/httplib
-    * #### 5.1.2 json/re/HtmlParser/lxml/pickle/sqlite
-    * #### 5.1.3 time/datetime/random/copy
-    * #### 5.1.4 os/sys/logging/ConfigParser/xml2dict
+    * #### 5.1.1 下载：urllib/urllib2/httplib
+    * #### 5.1.2 解析、存储：json/re/HtmlParser/lxml/pickle
+    * #### 5.1.3 时间日期：time/datetime/random
+    * #### 5.1.4 其他：os/sys/logging/copy/ConfigParser/xml2dict
     
 * ### 5.2 第三方库
     
-    * #### 5.2.1 requests/(python-goose)
-    * #### 5.2.2 simplejson/MySQLdb/mysql-connector
-    * #### 5.2.3 BeautifulSoup4/bs4
-    * #### 5.2.4 pyquery
-    * #### 5.2.5 webscraping
+    * #### 5.2.1 下载：requests/(python-goose)
+    * #### 5.2.2 解析、存储：simplejson
+    * #### 5.2.3 解析抽取：BeautifulSoup4/bs4
+    * #### 5.2.4 解析抽取：pyquery
+    * #### 5.2.5 存储：MySQLdb/mysql-connector/sqlite/redis/...
+    * #### 5.2.6 其他
     
-* ### 5.4 小结
+* ### 5.3 小结
     
-    * #### 5.4.1 还有哪些库？
-    * #### 5.4.1 小结
-    * #### 5.4.2 参考
+    * #### 5.3.2 小结
+    * #### 5.3.3 参考
 
 ---
 
 ## 第6章 高级爬虫
-* ### 6.1 内置库
+* ### 6.1 
     
-    * #### 6.1.1 下载：urllib/urllib2/httplib
-    * #### 6.1.2 解析、存储：json/re/HtmlParser/lxml/pickle
-    * #### 6.1.3 时间日期：time/datetime/random
-    * #### 6.1.4 其他：os/sys/logging/copy/ConfigParser/xml2dict
+    * #### 6.1.1 
+    * #### 6.1.2 
+    * #### 6.1.3 
+    * #### 6.1.4 
     
 * ### 6.2 第三方库
     
-    * #### 6.2.1 下载：requests/(python-goose)
-    * #### 6.2.2 解析、存储：simplejson
-    * #### 6.2.3 解析抽取：BeautifulSoup4/bs4
-    * #### 6.2.4 解析抽取：pyquery
-    * #### 6.2.5 存储：MySQLdb/mysql-connector/sqlite/redis/...
-    * #### 6.2.6 其他
+    * #### 6.2.1 
+    * #### 6.2.2 
+    * #### 6.2.3 
+    * #### 6.2.4 
     
 * ### 6.3 小结
     
