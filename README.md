@@ -142,8 +142,8 @@
 * ### 6.1 模拟请求之Header处理
     
     * #### 6.1.1 User-Agent
-    * #### 6.1.2 Host
-    * #### 6.1.3 Referer
+    * #### 6.1.2 Accept-Encoding
+    * #### 6.1.3 Referer/Host
     * #### 6.1.4 Cookies
     
 * ### 6.2 各种反爬虫策略导致403/404/...
