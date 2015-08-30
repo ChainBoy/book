@@ -24,5 +24,8 @@
 
 [grab](https://github.com/lorien/grab)
 
+[网站反爬虫](http://blog.csdn.net/huaweitman/article/details/9714981)
+
+[web性能优化- 反爬虫策略](http://dynamiclu.iteye.com/blog/1044645)
 
 鸣谢：董英、罗静静、唐一秋
