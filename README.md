@@ -96,7 +96,7 @@
     
     * #### 4.1.1 Chrome/插件
     * #### 4.1.2 Python/PyCharm
-    * #### 4.1.3 Wget/Curl
+    * #### 4.1.3 wget/curl
     * #### 4.1.4 Fiddler
     
 * ### 4.2 
