@@ -32,6 +32,6 @@
 
 [Python 用于网站抓取 登录 发布的模块介绍](http://www.open-open.com/lib/view/1346029660489)
 
-[dump test.](./README.md)
+[dump readme.](./README.md)
 
 鸣谢：董英、罗静静、唐一秋
