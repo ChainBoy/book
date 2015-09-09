@@ -95,8 +95,8 @@
 * ### 4.1 下载 抓包 调试
     
     * #### 4.1.1 Chrome/插件
-    * #### 4.1.2 Python
-    * #### 4.1.3 wget/curl
+    * #### 4.1.2 Python/PyCharm
+    * #### 4.1.3 Wget/Curl
     * #### 4.1.4 Fiddler
     
 * ### 4.2 
@@ -193,5 +193,31 @@
 ## 第11章 大大小小的爬虫
 
 ## 第12章 环境搭建
+* ### 12.1 安装 Python
+    
+    * #### 12.1.1 Windows
+    * #### 12.1.2 Linux
+    
+* ### 12.2 安装 Python 包管理工具
+    
+    * #### 12.2.1 easy_install/pip
+    * #### 12.2.2 安装第三方包(Windows/Linux)
+
+* ### 12.3 选择合适你的IDE
+    * ### 12.3.1 PyCharm 
+    * ### 12.3.2 Sublime Text
+    * ### 12.3.3 其他 Emeditor/Vi/Vim ...
+
+* ### 12.4 Windows上的Linux环境
+    
+    * #### 12.4.1 安装linux虚拟机
+    * #### 12.4.2 安装bash环境(Git bash/MobaXTerm)
+
+* ### 12.5 数据库安装
+
+* ### 12.6 其他
+    
+    * #### 12.6.1 Chrome
+    * #### 12.6.2 Fiddler
 
 ## 附录 防坑必备
