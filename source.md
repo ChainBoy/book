@@ -30,4 +30,6 @@
 
 [cola](http://qinxuye.me/article/cola-a-distributed-crawler-framework/)
 
+[Python 用于网站抓取 登录 发布的模块介绍](http://www.open-open.com/lib/view/1346029660489)
+
 鸣谢：董英、罗静静、唐一秋
